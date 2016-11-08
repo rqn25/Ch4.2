@@ -1,5 +1,5 @@
 
-public class Loop {
+public class Loop0 {
 	public static void main(String [] args) {
 		int k=1;
 		do {
